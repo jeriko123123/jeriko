@@ -1,0 +1,2 @@
+# jeriko
+ayam
